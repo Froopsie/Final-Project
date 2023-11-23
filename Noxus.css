@@ -1,0 +1,102 @@
+header {
+  text-align: center;
+}
+
+html {
+  background-color: black;
+}
+
+#nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+#nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+#main-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.paragraph h3 {
+  color: white;
+}
+
+.text-content {
+  text-align: justify;
+}
+
+footer {
+  color: red;
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.paragraph {
+  border: white 1px dashed;
+  margin: 1rem;
+  padding: 1.5rem;
+}
+
+.container {
+  text-align: center;
+  background-image: url(Noxus\ simble.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+  color: red;
+  height: 8rem;
+}
+
+.nav-button {
+  padding: 0.5rem;
+  background-color: red;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  border-radius: 15%;
+  border: 1px solid white;
+}
+
+.nav-button:hover {
+  color: black;
+}
+
+nav ul li a {
+  color: red;
+  text-decoration: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+h2 {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
+
+.noxus {
+  text-align: center;
+}
+
+.noxus img {
+  display: inline-block;
+  margin: auto;
+  border: white 1px dashed;
+}
+
+main {
+  color: red;
+}
